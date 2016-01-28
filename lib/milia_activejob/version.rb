@@ -1,3 +1,5 @@
-module MiliaActivejob
-  VERSION = "0.1.0"
+module Milia
+  module ActiveJob
+    VERSION = "0.1.0"
+  end
 end
